@@ -6,20 +6,21 @@ body {
   font-family: sans-serif;
 }
 
-.home {
-  display: block;
-  justify-content: center;
-  margin: ;
-}
-
 .container {
   display: flex;
   justify-content: space-around;
+  margin: 20px;
 }
 
 #scoreholder {
   font-family: "Cursed Timer ULiL", sans-serif;
   font-size: 80px;
   background-color: black;
-  padding: 20px;
+  padding: 5px;
+  margin: 10px;
+}
+
+.btn-group {
+  display: flex;
+  margin: 10px;
 }
